@@ -1,0 +1,2 @@
+# Campus-Selection-System
+This project is used to select the good knowledgeable person for companies through examination in aptitude questions. Picking the right people is a key element in business success and the recruitment and interview process is obviously fundamental. However hiring people takes a significant amount of time and cost for the organization.. An interview system automates all the steps involved in traditional approach thus by reducing the cost involved in the interview process to get the best talent
